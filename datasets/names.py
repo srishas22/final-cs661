@@ -1,0 +1,1 @@
+DUMMY_DATA='datasets/data/stock_data.csv'
