@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # ----------------- BACKGROUND IMAGE AS BASE64 -----------------
-img_path = "C:/Users/srish/.vscode/.vscode/final cs661/assets/background.jpg"
+img_path = "C:/Users/Acer/final-cs661/assets/background.jpg"
 with open(img_path, "rb") as f:
     img_data = base64.b64encode(f.read()).decode()
 
